@@ -1,2 +1,2 @@
 # ipcalculator  
-it supports the IPV4 for the time being.
+it supports only the IPV4 for the time being.
